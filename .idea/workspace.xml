@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bda04b8b-fc69-4e32-90b0-9693eb2c5cb5" name="Default" comment="" />
+    <ignored path="WeekViewDemo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_iPhone_Retina__3_5_inch__7.1" />
+  <component name="FavoritesManager">
+    <favorites_list name="WeekViewDemo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MasterViewController.m" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WeekViewDemo/MasterViewController.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="110" column="42" selection-start="4168" selection-end="4168" vertical-scroll-proportion="0.4192771" vertical-offset="1256" max-vertical-offset="4537">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#160#192#0" expanded="true" />
+                <element signature="n#!!doc;n#configureCell:atIndexPath:#0;n#MasterViewController#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeekView.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WeekViewDemo/WeekView/WeekView.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="92" column="46" selection-start="3009" selection-end="3009" vertical-scroll-proportion="0.0" vertical-offset="1012" max-vertical-offset="1755">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeekViewCell.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WeekViewDemo/WeekView/WeekViewCell.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="0" selection-start="944" selection-end="944" vertical-scroll-proportion="0.0" vertical-offset="377" max-vertical-offset="572">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/WeekViewDemo/WeekViewFlowLayout.h" />
+        <option value="$PROJECT_DIR$/WeekViewDemo/WeekViewFlowLayout.m" />
+        <option value="$PROJECT_DIR$/WeekViewDemo/WeekViewCell.h" />
+        <option value="$PROJECT_DIR$/WeekViewDemo/WeekViewCell.m" />
+        <option value="$PROJECT_DIR$/WeekViewDemo/WeekViewDay.m" />
+        <option value="$PROJECT_DIR$/WeekViewDemo/WeekViewDay.h" />
+        <option value="$PROJECT_DIR$/WeekViewDemo/WeekView/WeekViewFlowLayout.m" />
+        <option value="$PROJECT_DIR$/WeekViewDemo/WeekView/WeekViewFlowLayout.h" />
+        <option value="$PROJECT_DIR$/WeekViewDemo/WeekView/Date/NSDate/NSDate+RelativeString.m" />
+        <option value="$PROJECT_DIR$/WeekViewDemo/WeekViewDemo-Prefix.pch" />
+        <option value="$PROJECT_DIR$/WeekViewDemo/WeekView/WeekView.h" />
+        <option value="$PROJECT_DIR$/WeekViewDemo/WeekView/Date/NSDate/NSDate+DateRange.m" />
+        <option value="$PROJECT_DIR$/WeekViewDemo/WeekView/Date/NSDate/NSDate+DateRange.h" />
+        <option value="$PROJECT_DIR$/WeekViewDemo/WeekView/WeekViewCell.m" />
+        <option value="$PROJECT_DIR$/WeekViewDemo/WeekView/WeekView.m" />
+        <option value="$PROJECT_DIR$/WeekViewDemo/MasterViewController.m" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="WeekViewDemo" />
+  </component>
+  <component name="RunManager" selected="Application.WeekViewDemo">
+    <configuration default="false" name="WeekViewDemo" type="AppleRunConfiguration" factoryName="Application" temporary="true" SCHEME_NAME="WeekViewDemo" PROJECT_NAME="WeekViewDemo" TARGET_NAME="WeekViewDemo" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="WeekViewDemo" RUN_TARGET_NAME="WeekViewDemo" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PROJECT_NAME="WeekViewDemo" TARGET_NAME="WeekViewDemo" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="WeekViewDemo" RUN_TARGET_NAME="WeekViewDemo" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PROJECT_NAME="WeekViewDemo" TARGET_NAME="WeekViewDemoTests" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PROJECT_NAME="WeekViewDemo" TARGET_NAME="WeekViewDemo" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="WeekViewDemoTests" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" SCHEME_NAME="WeekViewDemoTests" PROJECT_NAME="WeekViewDemo" TARGET_NAME="WeekViewDemoTests" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="XCTest/Kiwi.WeekViewDemoTests" />
+      <item index="1" class="java.lang.String" itemvalue="Application.WeekViewDemo" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.WeekViewDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bda04b8b-fc69-4e32-90b0-9693eb2c5cb5" name="Default" comment="" />
+      <created>1396260049038</created>
+      <updated>1396260049038</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="774" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32794118" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24980111" sideWeight="0.6720588" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WeekViewDemo/MasterViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="652">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekViewDemo/WeekView/NSString/NSString+Extended.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="429" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekViewDemo/WeekViewDemo-Prefix.pch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="29" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="338" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekViewDemo/WeekView/WeekView.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="4" selection-start="622" selection-end="622" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="338">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekViewDemo/WeekView/Date/NSDate/NSDate+RelativeString.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="9" selection-start="236" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="1196" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekViewDemo/WeekView/Date/NSDate/MHPrettyDate.strings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="936" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekViewDemo/WeekView/Date/NSDate/MHPrettyDate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1508" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekViewDemo/WeekView/Date/NSDate/NSDate+TimeAgo.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4134">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekViewDemo/WeekView/Date/NSDate/NSDate+DateRange.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="1" selection-start="2137" selection-end="2137" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10556">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekViewDemo/WeekView/Date/NSDate/NSDate+RelativeString.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="652" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekViewDemo/WeekView/Date/NSDate/NSDate+DateRange.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="35" selection-start="558" selection-end="558" vertical-scroll-proportion="0.4386503" vertical-offset="0" max-vertical-offset="1807">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekViewDemo/WeekView/Date/NSDate/NSDate+TimeAgo.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="639" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekViewDemo/WeekView/Date/NSDate/NSDate+Extended.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="652" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekViewDemo/WeekView/WeekViewCell.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="944" selection-end="944" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="494">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekViewDemo/WeekView/WeekView.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="46" selection-start="3009" selection-end="3009" vertical-scroll-proportion="0.0" vertical-offset="1012" max-vertical-offset="1755">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekViewDemo/MasterViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="42" selection-start="4168" selection-end="4168" vertical-scroll-proportion="0.4192771" vertical-offset="1256" max-vertical-offset="4537">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#160#192#0" expanded="true" />
+            <element signature="n#!!doc;n#configureCell:atIndexPath:#0;n#MasterViewController#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
