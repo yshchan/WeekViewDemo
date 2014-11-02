@@ -47,7 +47,8 @@
     weekView.delegate = self;
     weekView.dataSource = self;
 
-    [weekView setStartDate:[NSDate date] endDate:[NSDate dateWithDaysFromNow:-1]];
+    int nextYear = (int)[[NSDate date] year] +1;
+    [weekView setStartDate:[NSDate date] endDate:[NSDate dateWithYear:nextYear month:1 day:1 hour:1 minute:1 second:1]];
     [weekView setCurrentDate:[NSDate date] animated:NO];
 
     weekView.showsHorizontalScrollIndicator = NO;
